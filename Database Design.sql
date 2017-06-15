@@ -24,4 +24,4 @@
 -- I would probably change those tables names into either single word (Shipping, Order, etc)
 -- I have noticed this because there were too many times that I was trying to call the table by the name and even I was writing
 -- the correctly, compiler wasn't working and giving me an error saying no such a table name. So I started to
--- drag everything from the list (you have showed me this trick)
+-- drag everything from the list
